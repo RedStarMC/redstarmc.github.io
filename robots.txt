@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /LICENSE
+Disallow: /.github
+
+User-agent: *
+Allow: /
